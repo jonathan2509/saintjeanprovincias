@@ -1,0 +1,54 @@
+C:\Proyecto Final\Proyecto 2018\BasicJS\BasicJS\bin\Debug\BasicJS.dll
+C:\Proyecto Final\Proyecto 2018\BasicJS\BasicJS\bin\Debug\BasicJS.pdb
+C:\Proyecto Final\Proyecto 2018\BasicJS\BasicJS\obj\Debug\BasicJS.csprojResolveAssemblyReference.cache
+C:\Proyecto Final\Proyecto 2018\BasicJS\BasicJS\obj\Debug\BasicJS.csproj.CoreCompileInputs.cache
+C:\Proyecto Final\Proyecto 2018\BasicJS\BasicJS\obj\Debug\BasicJS.dll
+C:\Proyecto Final\Proyecto 2018\BasicJS\BasicJS\obj\Debug\BasicJS.pdb
+C:\Proyecto Final\BasicJS\BasicJS\bin\Debug\BasicJS.dll
+C:\Proyecto Final\BasicJS\BasicJS\bin\Debug\BasicJS.pdb
+C:\Proyecto Final\BasicJS\BasicJS\obj\Debug\BasicJS.csprojResolveAssemblyReference.cache
+C:\Proyecto Final\BasicJS\BasicJS\obj\Debug\BasicJS.csproj.CoreCompileInputs.cache
+C:\Proyecto Final\BasicJS\BasicJS\obj\Debug\BasicJS.dll
+C:\Proyecto Final\BasicJS\BasicJS\obj\Debug\BasicJS.pdb
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\BasicJS\BasicJS\bin\Debug\BasicJS.dll
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\BasicJS\BasicJS\bin\Debug\BasicJS.pdb
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\BasicJS\BasicJS\obj\Debug\BasicJS.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\BasicJS\BasicJS\obj\Debug\BasicJS.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\BasicJS\BasicJS\obj\Debug\BasicJS.dll
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\BasicJS\BasicJS\obj\Debug\BasicJS.pdb
+C:\Practica Profesional\BasicJS\BasicJS\bin\Debug\BasicJS.dll
+C:\Practica Profesional\BasicJS\BasicJS\bin\Debug\BasicJS.pdb
+C:\Practica Profesional\BasicJS\BasicJS\obj\Debug\BasicJS.csprojResolveAssemblyReference.cache
+C:\Practica Profesional\BasicJS\BasicJS\obj\Debug\BasicJS.csproj.CoreCompileInputs.cache
+C:\Practica Profesional\BasicJS\BasicJS\obj\Debug\BasicJS.dll
+C:\Practica Profesional\BasicJS\BasicJS\obj\Debug\BasicJS.pdb
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\bin\Debug\BasicJS.dll
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\bin\Debug\BasicJS.pdb
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.csprojAssemblyReference.cache
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.dll
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.pdb
+C:\Users\rodri\Downloads\Proyecto Armado\BasicJS\BasicJS\bin\Debug\BasicJS.dll
+C:\Users\rodri\Downloads\Proyecto Armado\BasicJS\BasicJS\bin\Debug\BasicJS.pdb
+C:\Users\rodri\Downloads\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.csprojAssemblyReference.cache
+C:\Users\rodri\Downloads\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.dll
+C:\Users\rodri\Downloads\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.pdb
+C:\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\bin\Debug\BasicJS.dll
+C:\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\bin\Debug\BasicJS.pdb
+C:\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.csprojResolveAssemblyReference.cache
+C:\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.csproj.CoreCompileInputs.cache
+C:\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.dll
+C:\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\bin\Debug\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\bin\Debug\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Debug\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\bin\Debug\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\bin\Debug\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\obj\Debug\BasicJS.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\obj\Debug\BasicJS.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\obj\Debug\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\obj\Debug\BasicJS.pdb

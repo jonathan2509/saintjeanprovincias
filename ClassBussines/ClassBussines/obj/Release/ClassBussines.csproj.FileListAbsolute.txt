@@ -1,0 +1,22 @@
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Release\ClassBussines.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Release\ClassBussines.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Release\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Release\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Release\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Release\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Release\ClassBussines.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Release\ClassBussines.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Release\ClassBussines.csproj.CopyComplete
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Release\ClassBussines.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Release\ClassBussines.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Release\ClassBussines.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Release\ClassBussines.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Release\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Release\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Release\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Release\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\obj\Release\ClassBussines.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\obj\Release\ClassBussines.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\obj\Release\ClassBussines.csproj.CopyComplete
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\obj\Release\ClassBussines.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\obj\Release\ClassBussines.pdb

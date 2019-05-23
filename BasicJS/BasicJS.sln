@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicJS", "BasicJS\BasicJS.csproj", "{C541FCAE-2989-4EE6-92B3-E57B4B76C8EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C541FCAE-2989-4EE6-92B3-E57B4B76C8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C541FCAE-2989-4EE6-92B3-E57B4B76C8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C541FCAE-2989-4EE6-92B3-E57B4B76C8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C541FCAE-2989-4EE6-92B3-E57B4B76C8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {907DDE37-A19D-4199-9DE8-2E83AFDA4F4A}
+	EndGlobalSection
+EndGlobal

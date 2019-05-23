@@ -1,0 +1,12 @@
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\bin\Release\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\bin\Release\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Release\ClassConection.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Release\ClassConection.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Release\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Release\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\bin\Release\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\bin\Release\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\obj\Release\ClassConection.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\obj\Release\ClassConection.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\obj\Release\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\obj\Release\ClassLibrary3.pdb

@@ -1,0 +1,12 @@
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\bin\Release\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\bin\Release\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Release\BasicJS.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Release\BasicJS.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Release\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\BasicJS\BasicJS\obj\Release\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\bin\Release\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\bin\Release\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\obj\Release\BasicJS.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\obj\Release\BasicJS.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\obj\Release\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\BasicJS\BasicJS\obj\Release\BasicJS.pdb

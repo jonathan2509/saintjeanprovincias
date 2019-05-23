@@ -1,0 +1,38 @@
+C:\Users\Usuario\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\ClassConection.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\ClassLibrary3\ClassLibrary3\obj\Debug\ClassConection.csproj.CoreCompileInputs.cache
+C:\Proyecto Final\ClassConnection\ClassConection\obj\Debug\ClassConection.csprojResolveAssemblyReference.cache
+C:\Proyecto Final\ClassConnection\ClassConection\obj\Debug\ClassConection.csproj.CoreCompileInputs.cache
+C:\Proyecto Final\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.dll
+C:\Proyecto Final\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.pdb
+C:\Proyecto Final\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.dll
+C:\Proyecto Final\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.pdb
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.dll
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.pdb
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassConnection\ClassConection\obj\Debug\ClassConection.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassConnection\ClassConection\obj\Debug\ClassConection.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.dll
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.pdb
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.dll
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.pdb
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassConection.csprojAssemblyReference.cache
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassConection.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.dll
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.pdb
+C:\Users\rodri\Downloads\Proyecto Armado\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.dll
+C:\Users\rodri\Downloads\Proyecto Armado\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.pdb
+C:\Users\rodri\Downloads\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassConection.csprojAssemblyReference.cache
+C:\Users\rodri\Downloads\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassConection.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.dll
+C:\Users\rodri\Downloads\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassConection.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassConection.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\bin\Debug\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\obj\Debug\ClassConection.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\obj\Debug\ClassConection.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassConnection\ClassConection\obj\Debug\ClassLibrary3.pdb

@@ -1,0 +1,92 @@
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\bin\Debug\ClassBussines.dll
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\bin\Debug\ClassBussines.pdb
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\bin\Debug\BasicJS.dll
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.dll
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\bin\Debug\BasicJS.pdb
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.pdb
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csprojResolveAssemblyReference.cache
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CoreCompileInputs.cache
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CopyComplete
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\obj\Debug\ClassBussines.dll
+c:\users\pc-2\source\repos\ClassBussines\ClassBussines\obj\Debug\ClassBussines.pdb
+C:\Proyecto Final\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csprojResolveAssemblyReference.cache
+C:\Proyecto Final\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CoreCompileInputs.cache
+C:\Proyecto Final\ClassBussines\ClassBussines\obj\Debug\ClassBussines.dll
+C:\Proyecto Final\ClassBussines\ClassBussines\obj\Debug\ClassBussines.pdb
+C:\Proyecto Final\ClassBussines\ClassBussines\bin\Debug\ClassBussines.dll
+C:\Proyecto Final\ClassBussines\ClassBussines\bin\Debug\ClassBussines.pdb
+C:\Proyecto Final\ClassBussines\ClassBussines\bin\Debug\BasicJS.dll
+C:\Proyecto Final\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.dll
+C:\Proyecto Final\ClassBussines\ClassBussines\bin\Debug\BasicJS.pdb
+C:\Proyecto Final\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.pdb
+C:\Proyecto Final\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CopyComplete
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\bin\Debug\ClassBussines.dll
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\bin\Debug\ClassBussines.pdb
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\bin\Debug\BasicJS.dll
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.dll
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\bin\Debug\BasicJS.pdb
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.pdb
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CopyComplete
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\obj\Debug\ClassBussines.dll
+C:\Users\rodri\Documents\TECAS 3\Proyecto Final\Programacion\ClassBussines\ClassBussines\obj\Debug\ClassBussines.pdb
+C:\Practica Profesional\ClassBussines\ClassBussines\bin\Debug\ClassBussines.dll
+C:\Practica Profesional\ClassBussines\ClassBussines\bin\Debug\ClassBussines.pdb
+C:\Practica Profesional\ClassBussines\ClassBussines\bin\Debug\BasicJS.dll
+C:\Practica Profesional\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.dll
+C:\Practica Profesional\ClassBussines\ClassBussines\bin\Debug\BasicJS.pdb
+C:\Practica Profesional\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.pdb
+C:\Practica Profesional\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csprojResolveAssemblyReference.cache
+C:\Practica Profesional\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CoreCompileInputs.cache
+C:\Practica Profesional\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CopyComplete
+C:\Practica Profesional\ClassBussines\ClassBussines\obj\Debug\ClassBussines.dll
+C:\Practica Profesional\ClassBussines\ClassBussines\obj\Debug\ClassBussines.pdb
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csprojAssemblyReference.cache
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.dll
+C:\Users\rodri\Downloads\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.pdb
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassBussines.dll
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassBussines.pdb
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\BasicJS.dll
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.dll
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\BasicJS.pdb
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.pdb
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csprojResolveAssemblyReference.cache
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CoreCompileInputs.cache
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CopyComplete
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.dll
+C:\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.pdb
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassBussines.dll
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassBussines.pdb
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\BasicJS.dll
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.dll
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\BasicJS.pdb
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.pdb
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csprojAssemblyReference.cache
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CopyComplete
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.dll
+C:\Users\rodri\Downloads\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassBussines.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassBussines.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CopyComplete
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.dll
+D:\Programacion\Practica Profesional\Proyecto Armado\ClassBussines\ClassBussines\obj\Debug\ClassBussines.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Debug\ClassBussines.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Debug\ClassBussines.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Debug\BasicJS.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Debug\BasicJS.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\bin\Debug\ClassLibrary3.pdb
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csprojAssemblyReference.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CoreCompileInputs.cache
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\obj\Debug\ClassBussines.csproj.CopyComplete
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\obj\Debug\ClassBussines.dll
+D:\Programacion\Practica Profesional\Proyecto Saint Jean Provincias\ClassBussines\ClassBussines\obj\Debug\ClassBussines.pdb
